@@ -1,0 +1,37 @@
+.gumbeki{
+  position: absolute;
+  top: auto;
+  right:0px;
+  bottom: auto;
+  left:87%;
+  }
+  .circular{
+      border-radius: 50%;
+  }
+a
+{text-decoration: none;
+  color: black;
+ }
+ .centar{
+   position: absolute;
+    top: 225px;
+    left: 475px;
+ }
+ .search{
+   position: absolute;
+    top: 455px;
+    left: 505px;
+    height: 20px;
+     width: 500px;
+ }
+.bar{
+  position: absolute;
+   top: 495px;
+   left: 625px;
+}
+.hrvatski{
+  position: absolute;
+  top:520px;
+  left: 650px;
+
+}
